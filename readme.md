@@ -1,1 +1,1 @@
-Jekyll site for MagneticMule.com.
+# Jekyll site for MagneticMule.com.
