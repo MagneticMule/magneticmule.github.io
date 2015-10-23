@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Time"
+date:   1998-10-10 03:30:30
+blurb: "A game about regrets"
+asset_dir: "time"
+excerpt: "A game about regrets"
+categories: games 3d
+---
+{% include cover.html %}
+Inspired heavily by Myst and the recently released (at the time) Riven, Time was my attempt to create a puzzle game using pre-rendered graphics and sound. Of course, like many before and after me I failed to think seriously about the time needed to create such an experience. I was the graphic designer, programmer, game designer, sound artist and musician at a time long before the successful indie scene. Despite consuming over two years of my life, Time was never finished. All that remains are a few stolen screenshits taken at a public demo some years later.

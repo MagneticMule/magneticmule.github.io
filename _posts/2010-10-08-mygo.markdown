@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "MYGO"
+date:   2010-10-08 03:25:54
+blurb: "An exhibition of playful experiences"
+asset_dir: "mygo"
+excerpt: "Part art installation, part 80's revivalist nostalgia, MYGO was an attempt to recreate the feeling of being in a video arcade."
+
+categories: work digital exhibition games
+---
+{% include cover.html %}
+
+Part art installation, part 80's revivalist nostalgia, MYGO was an attempt to recreate the feeling of being in a video arcade. It took place in a large shopping centre, smack bang in the middle of Nottingham City center. As a result, we attracted a large number of folk who wouldn't normally engage with traditional installation based art.
