@@ -2,8 +2,8 @@
 layout: post
 title:  Toponimo
 date:   2012-10-12 03:25:54
-categories: work design development education
+categories: work design development education technology
 ---
-Toponimo is a location aware, user generated dictionary for mobile phones. Got that?
+Toponimo is a location aware, user generated dictionary for mobile phones. Got that? Co funded by Sharp Labs Europe and the 
 
 
