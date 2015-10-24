@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "PushingPrimitives"
-date:   2015-05-30 03:25:54
-categories: work photography
+title:  Postr
+date:   2013-01-12 03:25:54
+categories: design development education technology
 ---
-I ran pushingprimitives from 2005 to 2010. It served as my exhibition space for my analogue photographic experiments.
-
-I've included a few of my favourites here. 
+Postr was created as part of a Jisc funded project exploring the use of contextual technologies on Second Language learning.
