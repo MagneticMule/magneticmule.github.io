@@ -2,7 +2,7 @@
 layout: post
 title:  "PushingPrimitives"
 date:   2005-05-30git add
-blurb: "Analogue pgotographic experiments"
+blurb: "Analogue photographic experiments"
 asset_dir: "pushingprimitives"
 excerpt: "An online repository for my analogue photography"
 categories: work photography
