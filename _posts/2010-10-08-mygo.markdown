@@ -10,4 +10,4 @@ categories: work digital exhibition games
 ---
 {% include cover.html %}
 
-Part art installation, part 80's revivalist nostalgia, MYGO was an attempt to recreate the feeling of being in a video arcade. It took place in a large shopping centre, smack bang in the middle of Nottingham City center. As a result, we attracted a large number of folk who wouldn't normally engage with traditional installation based art.
+Part art installation, part 80's revivalist nostalgia, MYGO was an attempt to recreate the feeling of being in a video arcade. It took place in a large shopping centre, smack bang in the middle of Nottingham City center. As a result, we attracted a large number of folk who wouldn't normally engage with traditional installation based art. MYGO was funded in part by the Arts Council England and was presented as part of Game City 5.
